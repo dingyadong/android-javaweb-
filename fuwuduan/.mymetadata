@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="fuwuduan"
+  id="myeclipse.1585805458285"
+  context-root="/fuwuduan"
+  j2ee-spec="5.0"
+  archive="fuwuduan.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
